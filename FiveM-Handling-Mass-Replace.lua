@@ -1,5 +1,5 @@
 -- Set the path to search for handling.meta files
-local searchPath = "C:/Users/leech/Desktop/da"
+local searchPath = "C:/Users/Administrator/Desktop/test"
 cycles = 1
 
 -- Recursively search for handling.meta files
